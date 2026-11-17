@@ -6,6 +6,8 @@
 
 <p>🌐 <strong>English</strong> · <a href="https://github.com/Shadow01xd/Shadow01xd/blob/main/README.es.md">Español</a></p>
 
+<p>💼 <strong>Portfolio:</strong> <a href="https://shadow01xd.github.io">shadow01xd.github.io</a></p>
+
 <p>
 <a href="#%E2%80%8D-about-me">About</a> · <a href="#%EF%B8%8F-tech-stack">Tech stack</a> · <a href="#-certifications">Certifications</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-stats">Stats</a>
 </p>
@@ -106,6 +108,7 @@ const shadow01xd = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shadow01xd.github.io-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shadow01xd.github.io)
 [![Email](https://img.shields.io/badge/Email-mahh3899%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahh3899@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shadow01xd-181717?style=for-the-badge&logo=github)](https://github.com/Shadow01xd)
 
