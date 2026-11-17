@@ -5,12 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+apps;Machine+Learning+enthusiast;React+%7C+TypeScript+%7C+Laravel+%7C+Kotlin;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/Shadow01xd)
 
 <p>
-<a href="#-about-me">About</a> · <a href="#%EF%B8%8F-tech-stack">Tech stack</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-stats">Stats</a>
+<a href="#%E2%80%8D-about-me">About</a> · <a href="#%EF%B8%8F-tech-stack">Tech stack</a> · <a href="#-certifications">Certifications</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-stats">Stats</a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Shadow01xd&color=d946ef&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Shadow01xd?style=for-the-badge&color=d946ef&logo=github)
-![Repos](https://img.shields.io/badge/Repos-50%2B-d946ef?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FShadow01xd&query=%24.public_repos&label=Repos&style=for-the-badge&color=d946ef&logo=github)
 
 </div>
 
@@ -50,22 +50,24 @@ const shadow01xd = {
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
+
 ## 🎓 Certifications
 
 <div align="center">
 
 | Certification | Issuer | Date |
 |:--|:--|:--|
-| 🏆 **Scrum Fundamentals Certified (SFC)** | SCRUMstudy | May 2025 |
 | 🏗️ **Software Architecture Fundamentals** | [Platzi](https://platzi.com/@miguelangelhernandez01xd/) | Nov 2026 |
 | 📊 **Business Intelligence & Deep Research with AI** | [Platzi](https://platzi.com/@mahh3899/) | Sep 2026 |
 | 🔄 **Professional Scrum Course** | [Platzi](https://platzi.com/@mahh3899/) | Jan 2026 |
 | 🧠 **Design Thinking** | [Platzi](https://platzi.com/@mahh3899/) | Jan 2026 |
 | 🎨 **Product Design Glossary** | [Platzi](https://platzi.com/@mahh3899/) | Jan 2026 |
 | 🤝 **Soft Skills for Professional Development** | [Platzi](https://platzi.com/@mahh3899/) | Jan 2026 |
+| 🏆 **Scrum Fundamentals Certified (SFC)** | SCRUMstudy | May 2025 |
 | 🤖 **Webinar: AI in Education** | SIGUE-e | May 2023 |
 
 </div>
+
 ## 📌 Featured projects
 
 <div align="center">
@@ -78,6 +80,7 @@ const shadow01xd = {
 | 📉 **[churn-app-predictor](https://github.com/Shadow01xd/churn-app-predictor)** | Customer churn prediction app | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 </div>
+
 ## 📊 GitHub stats
 
 <div align="center">
